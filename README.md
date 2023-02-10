@@ -15,4 +15,11 @@ I'm Paraskevopoulos Marios and a EU-citizen from Greece, currently working as �
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParasMarios)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParasMarios)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+>## Most Used Languages ⚒️
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ParasMarios&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24" alt="giselle-ferreira" /></p>
+
+<br>
