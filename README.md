@@ -16,3 +16,5 @@ I'm Paraskevopoulos Marios and a EU-citizen from Greece, currently working as ðŸ
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParasMarios)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParasMarios)](https://github.com/anuraghazra/github-readme-stats)
