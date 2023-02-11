@@ -5,7 +5,7 @@ I'm Paraskevopoulos Marios and a EU-citizen from Greece, currently working as �
 
 - 👨‍💻 I’m currently working as Junior Software Engineer in one of the biggest IT Consulting companies in the world
 - 🌱 I’m currently developing my skills mainly in Java
-- 📫 How to reach me: [My LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/marios-paraskevopoulos-8aa012220/))
+- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/marios-paraskevopoulos-8aa012220/)
 
 
 #### :hammer_and_wrench: Languages and Tools :
