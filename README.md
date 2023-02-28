@@ -3,7 +3,7 @@
 
 I'm Paraskevopoulos Marios and a EU-citizen from Greece.
 
-- 👨‍💻 I’m currently looking for a job as Junior Software Engineer
+- 👨‍💻 I’m currently looking for a job as Software Engineer
 - 🌱 I’m currently developing my skills mainly in Java
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/marios-paraskevopoulos-8aa012220/)
 
